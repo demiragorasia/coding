@@ -1,0 +1,17 @@
+h1 {
+color: purple; text-align: center;
+font-size: 40px;font-family:verdana;
+}
+h2{
+colour: white;text-align: center;font-size: 30px;font-family: courier;
+}
+p{
+color: white;text-align: center;font-size: 25px;
+}
+a{
+  font-size: 20px;
+}
+body {
+  background-color: violet;
+text-align: center;
+}
